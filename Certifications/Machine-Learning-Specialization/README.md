@@ -1,5 +1,7 @@
 # Machine Learning Specialization Certificates
 
+![](/Certifications/Machine-Learning-Specialization/helper/fullcertificate.PNG)
+
 ## C1 - Supervised Machine Learning Regression and Classification
 
 ![](/Certifications/Machine-Learning-Specialization/helper/c1certificate.PNG)
