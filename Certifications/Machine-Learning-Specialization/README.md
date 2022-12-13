@@ -7,3 +7,7 @@
 ## C2 - Advanced Learning Algorithms
 
 ![](/Certifications/Machine-Learning-Specialization/helper/c2certificate.PNG)
+
+## C3 - Unsupervised Learning
+
+![](/Certifications/Machine-Learning-Specialization/helper/c3certificate.PNG)
