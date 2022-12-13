@@ -8,6 +8,6 @@
 
 ![](/Certifications/Machine-Learning-Specialization/helper/c2certificate.PNG)
 
-## C3 - Unsupervised Learning
+## C3 - Unsupervised Learning, Recommenders, Reinforcement Learning
 
 ![](/Certifications/Machine-Learning-Specialization/helper/c3certificate.PNG)
