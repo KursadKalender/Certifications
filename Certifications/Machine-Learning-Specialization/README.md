@@ -1,4 +1,4 @@
-# Machine Learning Specialization Certificatess
+# Machine Learning Specialization Certificates
 
 ![](/Certifications/Machine-Learning-Specialization/helper/fullcertificate.PNG)
 
